@@ -1,0 +1,46 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/notetaker.png" ,
+            "title": "Note taker",
+            "description": "Css",
+            "url": "https://github.com/Shy-F/note-taker/blob/main/public/assets/Note%20Taker.gif"
+        },
+        {
+            "cover": "/portfolio/1/orangeParty.png" ,
+            "title": "Orange Party",
+            "description": "React SCSS Javascript HTML CSS",
+            "url": "https://github.com/Shy-F/orange-party"
+        },
+        {
+            "cover": "/portfolio/1/BudgetTracker.png" ,
+            "title": "Budget Tracker",
+            "description": "HTML Css Javascript",
+            "url": "https://github.com/Shy-F/budget-tracker/blob/main/public/Budget%20Tracker.gif"
+        },
+        {
+            "cover": "/portfolio/1/ecommerce.png" ,
+            "title": "E Commerce",
+            "description": "Javascript",
+            "url": "https://github.com/Shy-F/e-commerce/blob/main/README.md"
+        },
+        {
+            "cover": "/portfolio/1/CuriousTraveler.png" ,
+            "title": "Roadless Traveled",
+            "description": "Javasript Handlebars CSS",
+            "url": "https://github.com/Shy-F/roadless-traveled"
+        },
+        {
+            "cover": "/portfolio/1/TeamProfileGenerator.png" ,
+            "title": "Team Profile Generator",
+            "description": "Javascript Node.js Html",
+            "url": "https://github.com/Shy-F/Team-Profile-Generator"
+        },
+        {
+            "cover": "/portfolio/1/RuffRuff.png" ,
+            "title": "Ruff Ruff",
+            "description": "Html Javascript",
+            "url": "https://github.com/Shy-F/Team-Profile-Generator"
+        }
+    ]
+}
